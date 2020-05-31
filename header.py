@@ -11,7 +11,7 @@ Another confidential and sensitive data management tool. For me.
 
     ######################################################
 
-    Adress : http://{host}:{port}                      
+    Adress : https://{host}:{port}                      
     Token : {token}
     
     ######################################################
